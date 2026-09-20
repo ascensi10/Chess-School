@@ -69,6 +69,7 @@ If you dont follow script, you cant develop yourself.
 4. [Italian Game](https://www.youtube.com/watch?v=qUews8fEGkc)
 5. [Evans Gambit](https://www.youtube.com/watch?v=fG52OQytDxc)
 6. [Petrov Defense](https://www.youtube.com/watch?v=wRLpQ4VSAJ0)
+7. [Crushing King's Gambit](https://www.youtube.com/watch?v=zEytN1zSTEE)
 
 After Learning full course [prepare yourself with computer analysis](https://www.chess.com/analysis)
 Before playing [learn how to find best move before calculate](https://www.youtube.com/watch?v=C7mX2woX_JI)
@@ -82,6 +83,7 @@ Solve 50 puzzles everyday also.
 ## MIDDLE SCHOOL (Intermediate)
 
 ### Endgame
+- [Using Your King](https://www.youtube.com/watch?v=n3FufrVltsc)
 - [Advanced Pawn Endgames](https://www.youtube.com/watch?v=Fxjthnv7mBQ)
 - [Key squares](https://www.youtube.com/watch?v=YVBxUIDoy5Q)
 - [Distant opposition](https://www.youtube.com/watch?v=WBb0ElOjeQE)
