@@ -1,44 +1,67 @@
 # Chess-School
 Chess education based on the Soviet school curriculum
 
+This school is for Begineers who knows rules about pieces.
+Fun Fact: Soviet school curriculum not starting with Openings, starting with endgames. For more info you can research why.
+
 ---
 
 ## ELEMENTARY SCHOOL (Begineer)
 
 ### Endgame
-- Queen vs. King checkmate
-- Rook vs. King checkmate
-- King and pawn endgames: opposition
-- The rule of the square
-- Spare tempo
-- Basic material superiority (e.g. Bishop vs. Knight)
-- Simple pawn promotion
+1. [Checkmate with Queen (Theory)](https://www.youtube.com/watch?v=Cbh2pRvM3aU)
+   1.1 [Checkmate with Queen (Practice)](https://www.chess.com/endgames/queen/basic-queen-endings/practice)
+2. [Checkmate with Rook (Theory)](https://www.youtube.com/watch?v=3yf7vPz1px4)
+   2.2 [Checkmate with Rook (Practice)](https://www.chess.com/endgames/rook/winning-rook-endings/practice)
+3. [Opposition (Theory)](https://www.youtube.com/watch?v=LHayyrnurXw)
+   3.3 [Opposition (Practice)](https://www.chess.com/endgames/pawn/winning-king-and-pawn/practice)
+4. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
+5. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
+
 
 ### Tactics
-- The fork
-- The pin
-- The skewer
-- Deflection
-- Decoy
-- One-move mate patterns
-- Basic material-winning combinations
-- Attacks on open files and diagonals
-- Perpetual check
+Calculate with your eyes before moving. Be sure and move. Dont use hints and force yourself to find.
+Also flip chessboard and calculate with your opponents side. (This is so important to see your opponent's tactics)
+if you do wrong move: Analyse why you did that mistake deeply and fix your mistake. 
+If you dont follow script, you cant develop yourself.
+
+1. [Mate in 1 (x50)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
+2. [Mate in 2 (x50)](https://lichess.org/training/mateIn2)
+3. [Mate in 3 (x40)](https://lichess.org/training/mateIn3)
+4. [Mate Network: Learn](https://www.youtube.com/watch?v=ts7mchx2siY)
+5. [Fork: Learn](https://www.youtube.com/watch?v=HNFR315mdxA)
+   5.2 [Fork Puzzles (x31)](https://lichess.org/study/LHqzFKNI/kTwaPWEx)
+6. [Deflection: Learn](https://www.youtube.com/watch?v=JTqV6mucGKQ)
+   6.2 [Deflection Puzzles (x30)](https://lichess.org/training/deflection)
+7. [Pin: Learn](https://www.youtube.com/watch?v=DzoEqql2x5Q)
+   7.2 [Pin Puzzles (x30)](https://lichess.org/training/pin)
+8. [Skewer](https://www.youtube.com/watch?v=0GPMzLS-u3A)
+   8.2 [Skewer Puzzle (x30)](https://lichess.org/training/skewer)
+9. [Decoy](https://www.youtube.com/watch?v=UdI2WjxGQU4)
+10. [Combinations](https://www.youtube.com/watch?v=-kh_6mjGOP0)
+
 
 ### Positional Understanding
-- Open vs. closed positions
-- Good knight vs. bad bishop
-- The center and central pawns
-- Weak and strong squares
-- Pawn chains
-- Development and tempo
+
+1. [The center and central pawns](https://www.youtube.com/watch?v=WTEauuxa8DU)
+2. [Tempo](https://www.youtube.com/watch?v=auybdTa6blM)
+3. [Pawn chains](https://www.youtube.com/watch?v=R20C30db9aU)
+4. [Open VS Closed positions](https://www.youtube.com/watch?v=FjQ9k2ZKZB4)
+5. [Weak Squares](https://www.youtube.com/watch?v=cYV20CcPGcU)
+6. [Good knight VS bad bishop](https://www.youtube.com/watch?v=wgVDmt2F1w0)
+
 
 ### Opening
-- Center control, development, king safety
-- Basic opening prohibitions
-- Castling
-- Basic opening systems (Italian Game, King's Gambit)
-- Basic opening traps (Scholar's Mate)
+
+1. [Opening Principles](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
+2. [Scotch Gambit](https://www.youtube.com/watch?v=QEYybZ8FYGE)
+3. [Two Knight's Defense](https://www.youtube.com/watch?v=LEz-QvHMjp8)
+
+After Learning full course [prepare yourself with computer analysis](https://www.chess.com/analysis)
+Before playing [learn how to find best move before calculate](https://www.youtube.com/watch?v=C7mX2woX_JI)
+And after watching and learning that play 15+10 on lichens.org and review your mistakes after match.
+Be patient and calculate
+
 
 ---
 
