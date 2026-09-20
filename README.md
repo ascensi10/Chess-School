@@ -25,7 +25,7 @@ Also flip chessboard and calculate with your opponents side. (This is so importa
 if you do wrong move: Analyse why you did that mistake deeply and fix your mistake. 
 If you dont follow script, you cant develop yourself.
 
-1. [Mate in 1 (x50)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
+1. [Mate in 1 (x64)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
 2. [Mate in 2 (x50)](https://lichess.org/training/mateIn2)
 3. [Mate in 3 (x40)](https://lichess.org/training/mateIn3)
 4. [Mate Network: Learn](https://www.youtube.com/watch?v=ts7mchx2siY)
@@ -55,13 +55,13 @@ If you dont follow script, you cant develop yourself.
 
 1. [Opening Principles](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
 2. [Scotch Gambit](https://www.youtube.com/watch?v=QEYybZ8FYGE)
-3. [Two Knight's Defense](https://www.youtube.com/watch?v=LEz-QvHMjp8)
+3. [Two Knight's Defense](https://www.youtube.com/watch?v=vuDdscJwh_o)
 
 After Learning full course [prepare yourself with computer analysis](https://www.chess.com/analysis)
 Before playing [learn how to find best move before calculate](https://www.youtube.com/watch?v=C7mX2woX_JI)
-And after watching and learning that play 15+10 on lichens.org and review your mistakes after match.
-Be patient and calculate
 
+Play Rapid games in lichess.org and review your mistakes after every match.
+Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now you are intermediate player if you can be 1400 elo.
 
 ---
 
