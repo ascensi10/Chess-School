@@ -216,7 +216,7 @@ Solve 30 tactical, 25 positional puzzles everyday also.
 - Breaking opponent preparation
 
 Play Rapid games in lichess.org and review your mistakes after every match.
-Your goal is 2200 Elo in lichess, after 2000 jump to Graduate level. Now you are Master if you can be 2200 elo.
+Your goal is 2200 Elo in lichess, after 2200 jump to Graduate level. Now you are Master if you can be 2200 elo.
 Solve 30 tactical, 30 positional puzzles everyday also.
 
 ---
