@@ -200,7 +200,7 @@ Solve 30 tactical, 25 positional puzzles everyday also.
 - Calculation under time pressure
 
 ### Positional Understanding
-- Prophylactic thinking
+- Mastering Prophylactic thinking
 - Dynamic balance
 - Static vs. dynamic factors
 - Typical positions
