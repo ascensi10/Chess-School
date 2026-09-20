@@ -13,10 +13,14 @@ Fun Fact: Soviet school curriculum not starting with Openings, starting with end
    1.1 [Checkmate with Queen (Practice)](https://www.chess.com/endgames/queen/basic-queen-endings/practice)
 2. [Checkmate with Rook (Theory)](https://www.youtube.com/watch?v=3yf7vPz1px4)
    2.2 [Checkmate with Rook (Practice)](https://www.chess.com/endgames/rook/winning-rook-endings/practice)
-3. [Opposition (Theory)](https://www.youtube.com/watch?v=LHayyrnurXw)
+3. [Two Bishop Mate](https://www.youtube.com/watch?v=91cXhK6qnAQ)
+    3.3 [Practice](https://www.chess.com/endgames/checkmates/two-bishops-mate/practice)
+4. [Knight And Bishop Mate](https://www.youtube.com/watch?v=dHnz4U7qjfk)
+    4.4 [Practice](https://www.chess.com/endgames/checkmates/bishop-and-knight-mate/practice)
+5. [Opposition (Theory)](https://www.youtube.com/watch?v=LHayyrnurXw)
    3.3 [Opposition (Practice)](https://www.chess.com/endgames/pawn/winning-king-and-pawn/practice)
-4. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
-5. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
+6. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
+7. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
 
 
 ### Tactics
@@ -25,20 +29,26 @@ Also flip chessboard and calculate with your opponents side. (This is so importa
 if you do wrong move: Analyse why you did that mistake deeply and fix your mistake. 
 If you dont follow script, you cant develop yourself.
 
-1. [Mate in 1 (x64)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
-2. [Mate in 2 (x50)](https://lichess.org/training/mateIn2)
-3. [Mate in 3 (x40)](https://lichess.org/training/mateIn3)
-4. [Mate Network: Learn](https://www.youtube.com/watch?v=ts7mchx2siY)
-5. [Fork: Learn](https://www.youtube.com/watch?v=HNFR315mdxA)
-   5.2 [Fork Puzzles (x31)](https://lichess.org/study/LHqzFKNI/kTwaPWEx)
-6. [Deflection: Learn](https://www.youtube.com/watch?v=JTqV6mucGKQ)
-   6.2 [Deflection Puzzles (x30)](https://lichess.org/training/deflection)
-7. [Pin: Learn](https://www.youtube.com/watch?v=DzoEqql2x5Q)
-   7.2 [Pin Puzzles (x30)](https://lichess.org/training/pin)
-8. [Skewer](https://www.youtube.com/watch?v=0GPMzLS-u3A)
-   8.2 [Skewer Puzzle (x30)](https://lichess.org/training/skewer)
-9. [Decoy](https://www.youtube.com/watch?v=UdI2WjxGQU4)
-10. [Combinations](https://www.youtube.com/watch?v=-kh_6mjGOP0)
+1. [Backrank Mate](https://www.youtube.com/watch?v=jdf8dr3pYVE&t=49s)
+2. [Mate in 1 (x64)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
+3. [Mate in 2 (x50)](https://lichess.org/training/mateIn2)
+4.  [Mate in 3 (x40)](https://lichess.org/training/mateIn3)
+5. [Mate Network: Learn](https://www.youtube.com/watch?v=ts7mchx2siY)
+6. [Fork: Learn](https://www.youtube.com/watch?v=HNFR315mdxA)
+   6.2 [Fork Puzzles (x31)](https://lichess.org/study/LHqzFKNI/kTwaPWEx)
+7. [Removing Defender](https://www.youtube.com/watch?v=QXGngjKuOeI)
+   7.2 [Puzzles (x30)](https://lichess.org/training/capturingDefender)
+8. [Deflection: Learn](https://www.youtube.com/watch?v=JTqV6mucGKQ)
+   8.2 [Deflection Puzzles (x30)](https://lichess.org/training/deflection)
+9. [Pin: Learn](https://www.youtube.com/watch?v=DzoEqql2x5Q)
+   9.2 [Pin Puzzles (x30)](https://lichess.org/training/pin)
+10. [Discovered Attack](https://www.youtube.com/watch?v=-MSZCCuRz88)
+     10.2 [Practice](https://lichess.org/training/discoveredAttack)
+11. [Skewer](https://www.youtube.com/watch?v=0GPMzLS-u3A)
+    11.2 [Skewer Puzzle (x30)](https://lichess.org/training/skewer)
+12. [Decoy](https://www.youtube.com/watch?v=UdI2WjxGQU4)
+13. [Combinations](https://www.youtube.com/watch?v=-kh_6mjGOP0)
+
 
 
 ### Positional Understanding
@@ -47,62 +57,79 @@ If you dont follow script, you cant develop yourself.
 2. [Tempo](https://www.youtube.com/watch?v=auybdTa6blM)
 3. [Pawn chains](https://www.youtube.com/watch?v=R20C30db9aU)
 4. [Open VS Closed positions](https://www.youtube.com/watch?v=FjQ9k2ZKZB4)
-5. [Weak Squares](https://www.youtube.com/watch?v=cYV20CcPGcU)
+5. [Basic Weak Squares](https://www.youtube.com/watch?v=cYV20CcPGcU)
 6. [Good knight VS bad bishop](https://www.youtube.com/watch?v=wgVDmt2F1w0)
 
 
 ### Opening
 
-1. [Opening Principles](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
+1. [Opening Principles (IMPORTANT!)](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
 2. [Scotch Gambit](https://www.youtube.com/watch?v=QEYybZ8FYGE)
 3. [Two Knight's Defense](https://www.youtube.com/watch?v=vuDdscJwh_o)
+4. [Italian Game](https://www.youtube.com/watch?v=qUews8fEGkc)
+5. [Evans Gambit](https://www.youtube.com/watch?v=fG52OQytDxc)
+6. [Petrov Defense](https://www.youtube.com/watch?v=wRLpQ4VSAJ0)
 
 After Learning full course [prepare yourself with computer analysis](https://www.chess.com/analysis)
 Before playing [learn how to find best move before calculate](https://www.youtube.com/watch?v=C7mX2woX_JI)
 
 Play Rapid games in lichess.org and review your mistakes after every match.
 Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now you are intermediate player if you can be 1400 elo.
+Solve 50 puzzles everyday also.
 
 ---
 
 ## MIDDLE SCHOOL (Intermediate)
 
 ### Endgame
-- Key squares
-- Distant opposition
-- Creating and stopping passed pawns
-- The Lucena position
-- The Philidor position
-- Same-colored bishop endgames
-- Opposite-colored bishop endgames
-- Knight endgames
+- [Advanced Pawn Endgames](https://www.youtube.com/watch?v=Fxjthnv7mBQ)
+- [Key squares](https://www.youtube.com/watch?v=YVBxUIDoy5Q)
+- [Distant opposition](https://www.youtube.com/watch?v=WBb0ElOjeQE)
+- [Creating and stopping passed pawns](https://www.youtube.com/watch?v=W0Lw4ox_n_M)
+- [The Lucena position](https://www.youtube.com/watch?v=CKOSoORUWUc)
+- [The Philidor position](https://www.youtube.com/watch?v=gkP44VKT9Rw)
+- [Same-colored bishop endgames](https://www.youtube.com/watch?v=U37aZeUnjYA)
+- [Opposite-colored bishop endgames](https://www.youtube.com/watch?v=YD8FkdY7LwA)
+- [Knight endgames](https://www.youtube.com/watch?v=FLMCtCeG0TE)
+- [Knight VS Bishop endgames](https://www.youtube.com/watch?v=mEZHigJCtls)
 
 ### Tactics
-- The double attack
-- Combined deflection and decoy
-- The in-between move (zwischenzug)
-- Two- to three-move mating combinations
-- Sacrificial combinations
-- Back-rank weaknesses
+Calculate with your eyes before moving. Be sure and move. Dont use hints and force yourself to find.
+Also flip chessboard and calculate with your opponents side. (This is so important to see your opponent's tactics)
+if you do wrong move: Analyse why you did that mistake deeply and fix your mistake. 
+If you dont follow script, you cant develop yourself.
+
+- [Smothered Mate](https://www.youtube.com/watch?v=MxJgpJg2xFo)
+- [Anastasia's Mate](https://www.youtube.com/watch?v=YSopwnxQ64M)
+- [Arabian Mate](https://www.youtube.com/watch?v=U3ypshNJbXc)
+- [Boden's Mate](https://www.youtube.com/watch?v=8JQCSDZf1_0)
+- [Dovetail Mate](https://www.youtube.com/watch?v=dMpmt6qg0s0)
+- [Greek Gift Sacrifice](https://www.youtube.com/watch?v=qbCdJgBX8M4)
+- [Zwischenzug](https://www.youtube.com/watch?v=H0BBgBLfNVM)
+- [Desperado](https://www.youtube.com/watch?v=VGey5jo-SWk)
+- [Demolition](https://www.youtube.com/watch?v=HMG1mWFEU0U)
+- [Exchange Sacrifice](https://www.youtube.com/watch?v=7-k9lBO91Wg)
 
 ### Positional Understanding
-- The weak square
-- The isolated pawn
-- The doubled pawn
-- The backward pawn
-- Open and half-open files
-- The bishop pair
-- Pawn majorities
-- Passed pawn formation
+- [Weak squares](https://chessmood.com/blog/weak-squares-in-chess)
+- [Isolated pawn](https://www.chess.com/terms/isolated-pawn-chess)
+- [Doubled Pawns](https://www.chess.com/terms/doubled-pawns-chess)
+- [Backward pawn](https://www.chess.com/terms/backward-pawn-chess)
+- [Open and half-open files](https://www.youtube.com/watch?v=_BJgLqHFOVc)
+- [The bishop pair](https://www.youtube.com/watch?v=_BLB6ZS4UDk)
+- [Pawn majorities](https://www.youtube.com/watch?v=Q2r6G3Gix9A)
 
 ### Opening
-- The Ruy Lopez
-- The Italian Game
-- The Four Knights Game
-- Pawn structure and the middlegame
-- The fight for the center
-- Development lag
-- Opening by system
+- [Pawn structures](https://www.youtube.com/watch?v=yAnNQY2Ac6w)
+- [Queen's Pawn Game](https://www.youtube.com/watch?v=3GSWRD_CP3E)
+- [London Game](https://www.youtube.com/watch?v=5XwRqEIgzlw)
+- [Caro-Kann Defense](https://www.youtube.com/watch?v=ebfzL_GwiIE)
+
+After Learning full course [prepare yourself with computer analysis](https://www.chess.com/analysis)
+
+Play Rapid games in lichess.org and review your mistakes after every match.
+Your goal is 1800 Elo in lichess, after 1800 jump to high school. Now you are advanced player if you can be 1800 elo.
+Solve 35 tactical, 15 positional puzzles everyday also.
 
 ---
 
@@ -120,7 +147,6 @@ Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now 
 
 ### Tactics
 - Combinational vision
-- The Greek gift sacrifice
 - Bishop sacrifices
 - Combinations breaking a pawn chain
 - Attacking a weakened king
@@ -146,6 +172,10 @@ Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now 
 - The isolated queen pawn
 - Opening repertoire building
 - Punishing opening mistakes
+
+Play Rapid games in lichess.org and review your mistakes after every match.
+Your goal is 2000 Elo in lichess, after 2000 jump to university. Now you are Professional player if you can be 2000 elo.
+Solve 30 tactical, 25 positional puzzles everyday also.
 
 ---
 
@@ -185,6 +215,10 @@ Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now 
 - Following tournament theory
 - Breaking opponent preparation
 
+Play Rapid games in lichess.org and review your mistakes after every match.
+Your goal is 2200 Elo in lichess, after 2000 jump to Graduate level. Now you are Master if you can be 2200 elo.
+Solve 30 tactical, 30 positional puzzles everyday also.
+
 ---
 
 ## GRADUATE LEVEL (CM/FM)
@@ -216,6 +250,12 @@ Your goal is 1400 Elo in lichess, after lichens 1400 jump to middle school. Now 
 - Opening-middlegame-endgame integrity
 - Surprise weapons
 - Independent theoretical analysis
+
+
+Play Rapid games in lichess.org and review your mistakes after every match.
+Your goal is 2500 Elo in lichess, after 2500 jump to Doctoral level. Now you are International player if you can be 2500 elo.
+Solve 50 tactical, 50 positional puzzles everyday also.
+
 
 ---
 
