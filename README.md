@@ -1,10 +1,6 @@
 # Chess-School
 Chess education based on the Soviet school curriculum
 
-# Soviet Chess School — Unified Curriculum by Level
-
-Four areas: **Endgame, Tactics, Positional Understanding, Opening**
-
 ---
 
 ## ELEMENTARY SCHOOL (Begineer)
