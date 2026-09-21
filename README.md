@@ -240,7 +240,7 @@ Reference:
 ### GRADUATE LEVEL (CM/FM)
 
 **Time**: 5+0 or 3+2 Blitz after finishing course
-**Objective:** 2500 Elo on Lichess blitz
+**Objective:** 2600 Elo on Lichess blitz
 **Workload:** 20 tactical, 50 positional puzzles daily
 
 #### 1. Endgame
