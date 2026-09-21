@@ -197,7 +197,7 @@ Reference:
 
 ### UNIVERSITY LEVEL (Professional)
 
-**Time**: 15+10 Rapid after finishing course
+**Time**: 10+0 Rapid after finishing course
 **Objective:** 2300 Elo on Lichess rapid
 **Workload:** 20 tactical, 30 positional puzzles daily
 
