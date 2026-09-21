@@ -145,7 +145,7 @@ Reference:
 - [Pawn Structures](https://www.youtube.com/watch?v=yAnNQY2Ac6w)
 - [Pawn Structure Mistakes](https://www.youtube.com/watch?v=lYX-VO1ut7U)
 - [Repertoire Building Principles](https://www.youtube.com/watch?v=Ex7aJ2PACgQ)
-- [Queen's Gambit (Complete Theory)]([https://www.youtube.com/watch?v=oypHzyjyBz8&list=PLUjxDD7HNNTgUtmFtlWp2W3Lu9RKRziZv](https://www.youtube.com/watch?v=HxRrBvYsEww))
+- [Queen's Gambit (Complete Theory)](https://www.youtube.com/watch?v=HxRrBvYsEww)
 - [Caro-Kann (Complete Theory)](https://www.youtube.com/watch?v=Jbz2KULs-qI)
 ---
 
