@@ -36,10 +36,6 @@ The Soviet School does not start with openings.
 - Complete practical exercise immediately after theoretical lesson.
 - Analyze Rapid games (10+0 minimum) without an engine first, then verify with analysis.
 
-Reference:
-- [How to find best move before calculating](https://www.youtube.com/watch?v=C7mX2woX_JI)
-- [Computer analysis tool](https://www.chess.com/analysis)
-
 ---
 
 ### ELEMENTARY SCHOOL (Beginner)
@@ -64,6 +60,7 @@ Reference:
    - [Practice](https://www.chess.com/endgames/checkmates/two-bishops-mate/practice)
 
 #### 2. Tactics
+0. [How to find best move before calculating](https://www.youtube.com/watch?v=C7mX2woX_JI)
 1. [Mate in 1 (x64)](https://lichess.org/study/U0CL2EtS/45NnZFc0)
 2. [Backrank Mate](https://www.youtube.com/watch?v=jdf8dr3pYVE&t=49s)
 3. [Mate in 2 (x50)](https://lichess.org/training/mateIn2)
@@ -92,12 +89,14 @@ Reference:
 5. [Open VS Closed positions](https://www.youtube.com/watch?v=FjQ9k2ZKZB4)
 
 #### 4. Opening
+0. [Use computer analysis tool for test yourself](https://www.chess.com/analysis)
 1. [Opening Principles (IMPORTANT!)](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
 2. [Italian Game](https://www.youtube.com/watch?v=dP4qtaUAhWM&list=PLssNbVBYrGcDtaEsaYMUyiAmK64nd4A5H)
 3. [Two Knights Game](https://www.youtube.com/watch?v=gQXCs7cSD40)
 4. [Scotch Game](https://www.youtube.com/watch?v=wAKWIie29YM&list=PLssNbVBYrGcBctwKwnUP9YjDZv7OfiOm5)
 5. [Anti-Scotch Gambit](https://www.youtube.com/watch?v=DFOBeLNbVNY)
 6. [Anti-Petrov Defense](https://www.youtube.com/watch?v=wRLpQ4VSAJ0)
+
 
 ---
 
