@@ -145,7 +145,8 @@ Reference:
 - [Pawn Structures](https://www.youtube.com/watch?v=yAnNQY2Ac6w)
 - [Pawn Structure Mistakes](https://www.youtube.com/watch?v=lYX-VO1ut7U)
 - [Repertoire Building Principles](https://www.youtube.com/watch?v=Ex7aJ2PACgQ)
-
+- [Queen's Gambit (Complete Theory)]([https://www.youtube.com/watch?v=oypHzyjyBz8&list=PLUjxDD7HNNTgUtmFtlWp2W3Lu9RKRziZv](https://www.youtube.com/watch?v=HxRrBvYsEww))
+- [Caro-Kann (Complete Theory)](https://www.youtube.com/watch?v=Jbz2KULs-qI)
 ---
 
 ### HIGH SCHOOL LEVEL (Advanced)
@@ -181,15 +182,13 @@ Reference:
 - Prophylaxis
 
 #### 4. Opening
-- The Sicilian Defense
-- The French Defense
-- The Caro-Kann Defense - Advanced
-- Closed games
-- Indian defenses
-- Hypermodernism
-- The isolated queen pawn
-- Opening repertoire building
-- Punishing opening mistakes
+- [Sicilian Defense](https://www.youtube.com/watch?v=impkeLfyyVM&list=PLssNbVBYrGcDUDYiWilH-mQxXM4ixS2z6)
+- [How to Win Closed Positions](https://www.youtube.com/watch?v=o7M24gcivnw)
+- [Hypermodernism](https://www.youtube.com/watch?v=aTtxpMswom4)
+- [King's Indian Defense](https://www.youtube.com/watch?v=_T-h5Jgn7BQ&list=PLOaFVRf_8WkQv_RtBn59zda2ZEBAy1RG7)
+- [Catalan Opening](https://www.youtube.com/watch?v=-FpB_kRo_wE)
+- [Opening repertoire building](https://www.youtube.com/watch?v=EKnLz1kX3wY)
+- [Punishing opening mistakes](https://www.youtube.com/watch?v=O1e0_0QB1dc)
 
 ---
 
