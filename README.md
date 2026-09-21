@@ -1,4 +1,4 @@
-# Chess-School
+t# Chess-School
 ### Chess Education Based on the Soviet School Curriculum
 
 **For students who know the piece movements. Complete curriculum from Beginner to IM/GM.**
@@ -93,9 +93,11 @@ Reference:
 
 #### 4. Opening
 1. [Opening Principles (IMPORTANT!)](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
-2. [Italian Game](https://www.youtube.com/watch?v=qUews8fEGkc)
-3. [Two Knight's Defense](https://www.youtube.com/watch?v=vuDdscJwh_o)
-4. [Petrov Defense](https://www.youtube.com/watch?v=wRLpQ4VSAJ0)
+2. [Italian Game](https://www.youtube.com/watch?v=dP4qtaUAhWM&list=PLssNbVBYrGcDtaEsaYMUyiAmK64nd4A5H)
+3. [Two Knights Game](https://www.youtube.com/watch?v=gQXCs7cSD40)
+4. [Scotch Game](https://www.youtube.com/watch?v=wAKWIie29YM&list=PLssNbVBYrGcBctwKwnUP9YjDZv7OfiOm5)
+5. [Anti-Scotch Gambit](https://www.youtube.com/watch?v=DFOBeLNbVNY)
+6. [Anti-Petrov Defense](https://www.youtube.com/watch?v=wRLpQ4VSAJ0)
 
 ---
 
