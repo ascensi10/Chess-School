@@ -143,6 +143,7 @@ Reference:
 
 #### 4. Opening
 - [Pawn Structures](https://www.youtube.com/watch?v=yAnNQY2Ac6w)
+- [Pawn Structure Mistakes](https://www.youtube.com/watch?v=lYX-VO1ut7U)
 - [Repertoire Building Principles](https://www.youtube.com/watch?v=Ex7aJ2PACgQ)
 
 ---
