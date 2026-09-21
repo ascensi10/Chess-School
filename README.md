@@ -180,10 +180,10 @@ Reference:
 - Piece exchanges
 - Maneuvering
 - Prophylaxis
+- [How to Play in Closed Positions](https://www.youtube.com/watch?v=o7M24gcivnw)
 
 #### 4. Opening
 - [Sicilian Defense](https://www.youtube.com/watch?v=impkeLfyyVM&list=PLssNbVBYrGcDUDYiWilH-mQxXM4ixS2z6)
-- [How to Win Closed Positions](https://www.youtube.com/watch?v=o7M24gcivnw)
 - [Hypermodernism](https://www.youtube.com/watch?v=aTtxpMswom4)
 - [King's Indian Defense](https://www.youtube.com/watch?v=_T-h5Jgn7BQ&list=PLOaFVRf_8WkQv_RtBn59zda2ZEBAy1RG7)
 - [Catalan Opening](https://www.youtube.com/watch?v=-FpB_kRo_wE)
