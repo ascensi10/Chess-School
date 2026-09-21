@@ -17,10 +17,11 @@ Fun Fact: Soviet school curriculum not starting with Openings, starting with end
     3.3 [Practice](https://www.chess.com/endgames/checkmates/two-bishops-mate/practice)
 4. [Knight And Bishop Mate](https://www.youtube.com/watch?v=dHnz4U7qjfk)
     4.4 [Practice](https://www.chess.com/endgames/checkmates/bishop-and-knight-mate/practice)
-5. [Opposition (Theory)](https://www.youtube.com/watch?v=LHayyrnurXw)
+5. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
+6. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY) [Practice (solve x30)](https://lichess.org/training/zugzwang)
+7. [Opposition (Theory)](https://www.youtube.com/watch?v=n3FufrVltsc)
    3.3 [Opposition (Practice)](https://www.chess.com/endgames/pawn/winning-king-and-pawn/practice)
-6. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
-7. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
+
 
 
 ### Tactics
