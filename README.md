@@ -44,8 +44,9 @@ Reference:
 
 ### ELEMENTARY SCHOOL (Beginner)
 
+**Time:** 30+0 or 30+20 Rapid after finishing beginner course
 **Objective:** 1400 Elo on Lichess
-**Workload:** 50 puzzles daily
+**Workload:** 50 tactical puzzles daily
 
 #### 1. Endgame
 1. [Checkmate with Queen (Theory)](https://www.youtube.com/watch?v=Cbh2pRvM3aU)
@@ -99,8 +100,9 @@ Reference:
 
 ### MIDDLE SCHOOL (Intermediate)
 
+**Time:** 30+20 or 30+0 Classical after finishing intermediate course
 **Objective:** 1800 Elo on Lichess
-**Workload:** 35 tactical, 15 positional puzzles daily
+**Workload:** 40 tactical, 10 positional puzzles daily
 
 #### 1. Endgame
 - - [Knight And Bishop Mate](https://www.youtube.com/watch?v=dHnz4U7qjfk)
@@ -151,7 +153,8 @@ Reference:
 
 ### HIGH SCHOOL LEVEL (Advanced)
 
-**Objective:** 2000 Elo on Lichess
+**Time**: 15+10 Rapid after finishing course
+**Objective:** 2000 Elo on Lichess rapid
 **Workload:** 30 tactical, 25 positional puzzles daily
 
 #### 1. Endgame
@@ -194,8 +197,9 @@ Reference:
 
 ### UNIVERSITY LEVEL (Professional)
 
-**Objective:** 2200 Elo on Lichess
-**Workload:** 30 tactical, 30 positional puzzles daily
+**Time**: 15+10 Rapid after finishing course
+**Objective:** 2300 Elo on Lichess rapid
+**Workload:** 20 tactical, 30 positional puzzles daily
 
 #### 1. Endgame
 - Complex rook endgames
@@ -235,8 +239,9 @@ Reference:
 
 ### GRADUATE LEVEL (CM/FM)
 
-**Objective:** 2500 Elo on Lichess
-**Workload:** 50 tactical, 50 positional puzzles daily
+**Time**: 5+0 or 3+2 Blitz after finishing course
+**Objective:** 2500 Elo on Lichess blitz
+**Workload:** 20 tactical, 50 positional puzzles daily
 
 #### 1. Endgame
 - Strategic transition to the endgame
@@ -269,6 +274,10 @@ Reference:
 ---
 
 ### DOCTORAL LEVEL (IM/GM)
+
+**Time**: 1+0 or 2+1 Bullet after finishing course
+**Objective:** 3000 Elo on Lichess bullet
+**Workload:** 30 tactical, 50 positional puzzles daily
 
 #### 1. Endgame
 - Intuitive endgame evaluation
