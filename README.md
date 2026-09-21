@@ -1,4 +1,4 @@
-t# Chess-School
+# Chess-School
 ### Chess Education Based on the Soviet School Curriculum
 
 **For students who know the piece movements. Complete curriculum from Beginner to IM/GM.**
