@@ -85,11 +85,9 @@ Reference:
 #### 3. Positional Understanding
 1. [The center and central pawns](https://www.youtube.com/watch?v=WTEauuxa8DU)
 2. [Tempo](https://www.youtube.com/watch?v=auybdTa6blM)
-3. Development and King Safety
-4. [Pawn chains](https://www.youtube.com/watch?v=R20C30db9aU)
-5. [Basic Weak Squares](https://www.youtube.com/watch?v=cYV20CcPGcU)
-6. [Open VS Closed positions](https://www.youtube.com/watch?v=FjQ9k2ZKZB4)
-7. [Pawn structures](https://www.youtube.com/watch?v=yAnNQY2Ac6w)
+3. [Pawn chains](https://www.youtube.com/watch?v=R20C30db9aU)
+4. [Basic Weak Squares](https://www.youtube.com/watch?v=cYV20CcPGcU)
+5. [Open VS Closed positions](https://www.youtube.com/watch?v=FjQ9k2ZKZB4)
 
 #### 4. Opening
 1. [Opening Principles (IMPORTANT!)](https://www.youtube.com/watch?v=Mlhye6n7ug4&t=58s)
