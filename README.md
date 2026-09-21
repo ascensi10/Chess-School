@@ -45,7 +45,7 @@ Reference:
 ### ELEMENTARY SCHOOL (Beginner)
 
 - **Time:** 30+0 or 30+20 Rapid after finishing beginner course
-- **Objective:** 1400 Elo on Lichens
+- **Objective:** 1400 Elo on [FIDE](https://worldchess.com)
 - **Workload:** 50 tactical puzzles daily
 - **Puzzle elo beetween**: 1400-1800 Elo
 
@@ -102,7 +102,7 @@ Reference:
 ### MIDDLE SCHOOL (Intermediate)
 
 **Time:** 30+20 or 30+0 Classical after finishing intermediate course
-**Objective:** 1800 Elo on Lichess
+**Objective:** 1800 Elo on [FIDE](https://worldchess.com)
 **Workload:** 40 tactical, 10 positional puzzles daily
 - **Puzzle elo beetween**: 1800-2100 Elo
 
@@ -156,7 +156,7 @@ Reference:
 ### HIGH SCHOOL LEVEL (Advanced)
 
 - **Time**: 15+10 Rapid after finishing course
-- **Objective:** 2000 Elo on Lichess rapid
+- **Objective:** 2000 Elo on Chess.com rapid
 - **Workload:** 30 tactical, 25 positional puzzles daily
 - **Puzzle elo beetween**: 2100-2400 Elo
 
@@ -201,7 +201,7 @@ Reference:
 ### UNIVERSITY LEVEL (Professional)
 
 **Time**: 10+0 Rapid after finishing course
-**Objective:** 2300 Elo on Lichess rapid
+**Objective:** 2300 Elo on Chess.com Rapid
 **Workload:** 20 tactical, 30 positional puzzles daily
 - **Puzzle elo beetween**: 2400-2600 Elo
 
@@ -244,7 +244,7 @@ Reference:
 ### GRADUATE LEVEL (CM/FM)
 
 **Time**: 5+0 or 3+2 Blitz after finishing course
-**Objective:** 2600 Elo on Lichess blitz
+**Objective:** 2600 Elo on Chess.com Blitz
 **Workload:** 20 tactical, 50 positional puzzles daily
 - **Puzzle elo beetween**: 2600-3000 Elo
 
@@ -281,7 +281,7 @@ Reference:
 ### DOCTORAL LEVEL (IM/GM)
 
 **Time**: 1+0 or 2+1 Bullet after finishing course
-**Objective:** 3000 Elo on Lichess bullet
+**Objective:** 3000 Elo on Chess.com bullet
 **Workload:** 30 tactical, 50 positional puzzles daily
 - **Puzzle elo beetween**: 3000+ Elo
 
