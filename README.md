@@ -55,7 +55,7 @@ Reference:
 3. [Opposition (Theory)](https://www.youtube.com/watch?v=n3FufrVltsc)
    - [Opposition (Practice)](https://www.chess.com/endgames/pawn/winning-king-and-pawn/practice)
 4. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
-5. [Key squares](https://www.youtube.com/watch?v=YVBxUIDoy5Q)
+5. [Key squares](https://www.youtube.com/watch?v=fkFXB2V3SY8)
 6. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
    - [Practice (solve x30)](https://lichess.org/training/zugzwang)
 7. [Two Bishop Mate](https://www.youtube.com/watch?v=91cXhK6qnAQ)
