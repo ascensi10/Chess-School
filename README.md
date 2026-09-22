@@ -157,7 +157,7 @@ The Soviet School does not start with openings.
 ### HIGH SCHOOL LEVEL (Advanced)
 
 - **Time**: 15+10 Rapid after finishing course
-- **Goal:** 2000 Elo on [Lichess](https://lichess.org)
+- **Goal:** 2200 Elo on [Lichess Rapid](https://lichess.org)
 - **Workload:** 30 tactical, 25 positional puzzles daily
 - **Puzzle elo beetween**: 2100-2400 Elo
 
