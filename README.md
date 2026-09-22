@@ -41,7 +41,7 @@ The Soviet School does not start with openings.
 ### ELEMENTARY SCHOOL (Beginner)
 
 - **Time:** 30+0 or 30+20 Rapid after finishing beginner course
-- **Goal:** 1400 Elo on [Lichess](https://lichess.org)
+- **Goal:** 1600 Elo on [Lichess classical mode](https://lichess.org)
 - **Workload:** 50 tactical puzzles daily
 - **Puzzle elo beetween**: 1400-1800 Elo
 
@@ -103,7 +103,7 @@ The Soviet School does not start with openings.
 ### MIDDLE SCHOOL (Intermediate)
 
 - **Time:** 30+20 or 30+0 Classical after finishing intermediate course
-- **Goal:** 1800 Elo on [Lichess](https://lichess.org)
+- **Goal:** 2000 Elo on [Lichess classical mode](https://lichess.org)
 - **Workload:** 40 tactical, 10 positional puzzles daily
 - **Puzzle elo beetween**: 1800-2100 Elo
 
