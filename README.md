@@ -46,10 +46,10 @@ The Soviet School does not start with openings.
 - **Puzzle elo beetween**: 1400-1800 Elo
 
 #### 1. Endgame
-1. [Checkmate with Queen (Theory)](https://www.youtube.com/watch?v=Cbh2pRvM3aU)
-   - [Checkmate with Queen (Practice)](https://www.chess.com/endgames/queen/basic-queen-endings/practice)
-2. [Checkmate with Rook (Theory)](https://www.youtube.com/watch?v=3yf7vPz1px4)
-   - [Checkmate with Rook (Practice)](https://www.chess.com/endgames/rook/winning-rook-endings/practice)
+1. [Queen Mate (Theory)](https://www.youtube.com/watch?v=Cbh2pRvM3aU)
+   - [Queen Mate (Practice)](https://www.chess.com/endgames/queen/basic-queen-endings/practice)
+2. [Rook Mate (Theory)](https://www.youtube.com/watch?v=3yf7vPz1px4)
+   - [Rook Mate (Practice)](https://www.chess.com/endgames/rook/winning-rook-endings/practice)
 3. [The rule of the square](https://www.youtube.com/shorts/ZIX3X2CQ9j4)
 4. [Key squares](https://www.youtube.com/watch?v=fkFXB2V3SY8)
 5. [Zugzwang](https://www.youtube.com/watch?v=nu9zrTxtgtY)
